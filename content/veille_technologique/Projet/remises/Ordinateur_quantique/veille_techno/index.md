@@ -36,7 +36,7 @@ La réponse du LLM est très bonne : elle explique les bases du fonctionnement
 - **Défis et limitations**  
   Le LLM mentionne la stabilité des qubits, la correction d’erreurs, la mise à l’échelle et le coût. En effet, plusieurs sources confirment que le taux d’erreurs est très élevé :  
   > « Or, aujourd’hui, au mieux, une opération sur 1 000 se révèle erronée. »  
-  [Inria - Informatique quantique](https://www.inria.fr/fr/informatique-quantique)
+  [Inria - Informatique quantique](https://www.inria.fr/fr/informatique-quantique-algorithme-optimisation-multiobjectifs)
   
   Le LLM affirme également quelques autres défis qui sont tout à fait légitimes, tels que le coût de fabrication et les contraintes d'installation et d'entreposage de ce genre d'appareil.
 
